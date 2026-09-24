@@ -1,0 +1,1 @@
+I am writing inside this file using open function. And This is written using append
